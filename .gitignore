@@ -11,3 +11,4 @@ dist/
 build/
 *.swp
 *.swo
+.vercel

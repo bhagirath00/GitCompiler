@@ -5,10 +5,9 @@
 </div>
 
 
-
 GitComplier delivers a native IDE experience directly within your web browser. Engineered for speed and simplicity, it provides an instantly available sandbox to write, compile, and execute code in real-time without any local environment configuration. 
 
-It natively supports execution for Python, JavaScript, Java, C, and C++.
+It natively supports execution for **Python, JavaScript, Java, C, and C++**.
 
 ### System Specifications
 
@@ -24,8 +23,24 @@ It natively supports execution for Python, JavaScript, Java, C, and C++.
 Access the application via the web interface. Select your target environment from the primary dropdown suite, develop your logic in the main editor pane, and execute it instantly using the run command.
 
 
+## Acknowledgments
+
+### Built With
+
+This project is inspired by and leverages the power of:
+
+- **[Judge0 API](https://judge0.com/)** - The core execution engine powering real-time code compilation and execution across multiple programming languages. Judge0 provides a secure, reliable, and scalable infrastructure for remote code execution.
+
+- **[Monaco Editor](https://microsoft.github.io/monaco-editor/)** - Class-leading syntax highlighting and intelligent editor powered by Microsoft.
+
+- **[Golden Layout](https://golden-layout.com/)** - Advanced multi-pane layout management system.
+
+### Credits
+
+**Code Execution Infrastructure:**
+Judge0 is an open-source online judge and remote code execution system. For more information, visit [judge0.com](https://judge0.com/)
 
 <div align="center">
-  <p><i>Code execution is securely powered by the <b>Judge0 API</b>.</i></p>
+  <p><i>Powered by the <a href="https://judge0.com/" target="_blank"><b>Judge0 API</b></a>.</i></p>
   <br>
 </div>
