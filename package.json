@@ -1,0 +1,24 @@
+{
+  "name": "gitcompiler",
+  "version": "1.0.0",
+  "description": "Browser-based IDE with Monaco Editor and Judge0 API",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -c-1 -o -p 8080",
+    "start": "npx http-server",
+    "build": "echo \"No build step needed for this static site\""
+  },
+  "keywords": [
+    "ide",
+    "code-editor",
+    "judge0",
+    "monaco",
+    "online-compiler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bhagirath00/GitComplier.git"
+  }
+}
